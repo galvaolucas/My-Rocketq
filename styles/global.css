@@ -30,6 +30,7 @@ h2{
 }
 
 body{
+    display: flex;
     height: 100vh;
     background-color: var(--background);    
 }
@@ -100,6 +101,7 @@ button.outlined,
 
 .content header{
     width: 80%;
+    margin-left: 8rem;
 
 }
 
