@@ -1,0 +1,27 @@
+{
+  "name": "rocketq_lucas",
+  "version": "1.0.0",
+  "description": "Projeto para gerenciamento de perguntas e respostas ao dono da página",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvaolucas/My-Rocketq.git"
+  },
+  "keywords": [],
+  "author": "Lucas Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galvaolucas/My-Rocketq/issues"
+  },
+  "homepage": "https://github.com/galvaolucas/My-Rocketq#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
